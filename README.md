@@ -8,8 +8,7 @@ A web-based silent emergency alert system designed to send immediate distress si
 - **Location Tracking**: Automatically captures the device's GPS coordinates (`latitude`, `longitude`).
 - **Email Alerts**: Sends an email to a pre-configured trusted contact with a Google Maps link.
 - **Visual Feedback**: Provides clear "SENDING..." and "SENT" status on the button.
-- **Error Handling**: Robust error recovery (e.g., if network fails) with clear on-screen messages.
-- **Audio Removed**: Audio recording feature has been intentionally removed for simplicity and speed.
+
 
 ## Prerequisites
 - **Python 3.x**: Ensure Python is installed on your system.
